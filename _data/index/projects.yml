@@ -1,0 +1,21 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Coccinelle
+  i18n: jalpc
+  gh_user: rahulkrishnan98
+  repo: #Jalpc
+  img: /static/assets/img/landing/coccinelle.jpg
+  desc: Worked on Code-linting tool 'Coccinelle'
+
+- name: Kernel-Build
+  i18n: leetcode
+  gh_user: rahulkrishnan98
+  repo: Kernel
+  img: /static/assets/img/landing/kernel.jpg
+  desc: Bare kernel build with minimal I/O
+
+- name: CodersTrust
+  i18n: familycode
+  img: /static/assets/img/landing/ct.png
+  desc: Multiple Front-end UI/UX projects under Morten Lund Investment program

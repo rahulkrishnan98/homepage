@@ -1,0 +1,29 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Linux Kernel
+    i18n: company_a
+  desc:
+    detail: Contributing to Linux kernel
+    i18n: company_a_desc
+  date:
+    detail: Aug 2016
+    i18n: company_a_date
+  job:
+    detail: Contributor
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Web-Development
+    i18n: company_b
+  desc:
+    detail: HTML | CSS | jQuery | Javascript | Node.js | python
+    i18n: company_b_desc
+  date:
+    detail: Late 2016
+    i18n: company_b_date
+  job:
+    detail: Open Source Enthusiast
+    i18n: company_b_job
+  icon: fa-plus-square

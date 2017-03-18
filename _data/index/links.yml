@@ -1,0 +1,18 @@
+# links section data
+- last_name: Rahul Krishnan
+  first_name:
+  desc: Student | Developer
+#  website: https://www.google.com
+  email: mrahul.krishnan@gmail.com
+
+- last_name: FOSS@AMRITA
+  first_name:
+  desc: Follow Us
+  website: http://foss.amrita.ac.in/
+  email:
+
+- last_name: Amrita University
+  first_name:
+  desc: University College
+  website: https://www.amrita.edu/
+  email:
