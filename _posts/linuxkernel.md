@@ -4,7 +4,7 @@ title:  "Contributing to Linux Kernel"
 date:   2017-01-31
 desc: "Contributing to Linux Kernel"
 keywords: "linux,kernel,patch"
-categories: [LINUX]
+categories: [HTML]
 tags: [Linux,kernelnewbies]
 icon: icon-html
 ---
