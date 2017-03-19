@@ -1,7 +1,12 @@
 ---
-layout: blog
-title: Linux
-permalink: /linux/
+layout: post
+title:  "Contributing to Linux Kernel"
+date:   2017-01-31
+desc: "Contributing to Linux Kernel"
+keywords: "linux,kernel,patch"
+categories: [LINUX]
+tags: [Linux,kernelnewbies]
+icon: icon-html
 ---
 
 ### 1.1 Introduction
