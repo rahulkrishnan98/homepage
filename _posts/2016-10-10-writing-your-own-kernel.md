@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "writing your kernel"
+title: "writing your kernel"
 date:   2016-10-10
 desc: "writing your own kernel"
 keywords: "linux,kernel,patch"
