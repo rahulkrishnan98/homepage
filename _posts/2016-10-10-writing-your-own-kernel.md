@@ -1,10 +1,10 @@
 ---
 layout: "writing your own kernel"
-date:   2016-10-11
+date:   2016-10-10
 desc: "writing your own simple kernel"
 keywords: "linux,kernel,I/O"
 categories: [Linux]
-tags: [Linux,kernelnewbies]
+tags: [Linux,kernel]
 icon: icon-html
 ---
 
