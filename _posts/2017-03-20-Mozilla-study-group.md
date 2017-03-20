@@ -4,7 +4,7 @@ title:  "Mozilla-study-group"
 date:   2017-03-20
 desc: "mozilla-study-group"
 keywords: "Mozilla,studygroup"
-categories: [Life]
+categories: [Blog]
 tags: [Linux,kernelnewbies]
 icon: icon-html
 ---
