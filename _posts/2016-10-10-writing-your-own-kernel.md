@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "writing your own kernel"
+title:  "writing your kernel"
 date:   2016-10-10
-desc: "writing your own simple kernel"
-keywords: "linux,kernel,I/O"
+desc: "writing your own kernel"
+keywords: "linux,kernel,patch"
 categories: [Linux]
 tags: [Linux,kernel]
 icon: icon-html
