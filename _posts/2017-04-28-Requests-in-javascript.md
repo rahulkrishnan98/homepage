@@ -15,7 +15,7 @@ icon: icon-html
 <br>
 ### **Application Program Interface (API) **
 
-<br>Now the Wikipedia definition of the API will tell you, an **Application Programming Interface** (**API**) is a set of subroutine definitions, protocols, and tools for building <br> ![47.png](https://rahulkrishnanlive.files.wordpress.com/2017/04/47.png)<br>application software. But in layman terms , in the context of the web, the API's generally allow you to send commands to programs running on the servers that you connect to from your browser or with the browser itself. This allows you to access resources only available on the server. A common usage is of the authorisation feature to login to websites. <br>  [![Everything Is AWESOME]([Imgur](http://i.imgur.com/fjyfcdF.png)](https://www.youtube.com/watch?v=6STSHbdXQWI&w=640&h=360 "API")
+<br>Now the Wikipedia definition of the API will tell you, an **Application Programming Interface** (**API**) is a set of subroutine definitions, protocols, and tools for building <br> ![47.png](https://rahulkrishnanlive.files.wordpress.com/2017/04/47.png)<br>application software. But in layman terms , in the context of the web, the API's generally allow you to send commands to programs running on the servers that you connect to from your browser or with the browser itself. This allows you to access resources only available on the server. A common usage is of the authorisation feature to login to websites. <br>  [![API]([Imgur](http://i.imgur.com/fjyfcdF.png))](https://www.youtube.com/watch?v=6STSHbdXQWI&w=640&h=360 "API")
 <br>
 ### **XMLHttpRequest :**
 
