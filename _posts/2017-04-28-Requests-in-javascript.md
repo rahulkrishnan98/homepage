@@ -9,17 +9,17 @@ tags: [Web,Javascript]
 icon: icon-html
 ---
 
-### **The Introduction :**
+ **The Introduction :**
 
-As you probably know very well by now, the internet is made up of a bunch of interconnected computers called servers. When you are surfing the web and navigating between web pages, our browser  requests information from any of these servers. The chart below explains explicitly on the request.<br> ![46](https://rahulkrishnanlive.files.wordpress.com/2017/04/46.png)<br> That is, our browser sends a request, waits for the server to respond to the request, and (once the server responds) processes the request. All of this is governed by protocols or rules which is a topic for another day.
+<br>As you probably know very well by now, the internet is made up of a bunch of interconnected computers called servers. When you are surfing the web and navigating between web pages, our browser  requests information from any of these servers. The chart below explains explicitly on the request.<br> ![46](https://rahulkrishnanlive.files.wordpress.com/2017/04/46.png)<br> That is, our browser sends a request, waits for the server to respond to the request, and (once the server responds) processes the request. All of this is governed by protocols or rules which is a topic for another day.
 
 ### **Application Program Interface (API) **
 
-Now the Wikipedia definition of the API will tell you, an **Application Programming Interface** (**API**) is a set of subroutine definitions, protocols, and tools for building <br> ![47.png](https://rahulkrishnanlive.files.wordpress.com/2017/04/47.png)<br>application software. But in layman terms , in the context of the web, the API's generally allow you to send commands to programs running on the servers that you connect to from your browser or with the browser itself. This allows you to access resources only available on the server. A common usage is of the authorisation feature to login to websites. <br>  [![API's](https://img.youtube.com/vi/6STSHbdXQWI&w=640&h=360/0.jpg)](https://www.youtube.com/watch?v=6STSHbdXQWI&w=640&h=360 "API")
+<br>Now the Wikipedia definition of the API will tell you, an **Application Programming Interface** (**API**) is a set of subroutine definitions, protocols, and tools for building <br> ![47.png](https://rahulkrishnanlive.files.wordpress.com/2017/04/47.png)<br>application software. But in layman terms , in the context of the web, the API's generally allow you to send commands to programs running on the servers that you connect to from your browser or with the browser itself. This allows you to access resources only available on the server. A common usage is of the authorisation feature to login to websites. <br>  [![API's](https://img.youtube.com/vi/6STSHbdXQWI&w=640&h=360/0.jpg)](https://www.youtube.com/watch?v=6STSHbdXQWI&w=640&h=360 "API")
 
 ### **XMLHttpRequest :**
 
-Now there are countless tutorials out there executing the requests via JavaScript or an extended framework of the same. For starters, the remainder of the tutorial is focused on plain vanilla Javascript and could be cumbersome( Angular JS does the same in half of the number of lines *sighs!*). All that being said, lets actually see the code and later break it down one by one.
+<br>Now there are countless tutorials out there executing the requests via JavaScript or an extended framework of the same. For starters, the remainder of the tutorial is focused on plain vanilla Javascript and could be cumbersome( Angular JS does the same in half of the number of lines *sighs!*). All that being said, lets actually see the code and later break it down one by one.
 
 > <pre>
 >     API testing
@@ -42,7 +42,7 @@ Now there are countless tutorials out there executing the requests via JavaScrip
 The above code is in a simple HTML file. Now any JavaScript code that we write goes under the script tag of the code. Explicitly mention **type=text/javascript .**
 
 ### 1]  **Initialising object and sending request :**
-
+<br>
 > <table style="height: 48px;" border="0" width="626" cellspacing="0" cellpadding="0">
 >
 > <tbody>
@@ -74,7 +74,7 @@ The above block initialised the _**xhr**_ variable with the request. Now open is
 Now even when the request is sent, other parts of your code are run not awaiting confirmation for the request from the server side. This makes the user experience much better than a synchronous request which will probably through most users off! Now I hope it's more clear on why we used the asynchronous ( TRUE ) request instead.
 
 ### **2] Readystate and readystatechange**
-
+<br>
 Now by the time we have actually sent requests to the browser, it's important to know the state of the request. For this we use the the **readystatechange. **While this still can indicate on the status of the request, **<span class="inlineCode">readystatechange</span>** event being tied to our **<span class="inlineCode">XMLHttpRequest</span>** object's **<span class="inlineCode">readyState</span>** property makes it difficult to just parse the data soon afterwards. The readyState changes a 5 set value ranging from 0 to 4\. The exact status is mentioned below in the tabular column.
 
 ![48](https://rahulkrishnanlive.files.wordpress.com/2017/04/48.png) <br>**credits : www.kirupa.com**
@@ -86,7 +86,7 @@ So practically the readystatechange event is being fired 5 times, but in actuali
 >            }</pre>
 
 ### **3\. Parsing data and final end output**
-
+<br>
 Now the request to the server has returned successfully with the data we have to parse into user readable text. So based on the data type we access we have to choose alter paths. For instance this current data is in the form of JSON.<br> ![49.png](https://rahulkrishnanlive.files.wordpress.com/2017/04/49.png)<br> Now we parse this particular JSON dataset to get the ip parameter alone for the purpose of this tutorial.
 
 > <pre>var r = JSON.parse(xhr.responseText);
