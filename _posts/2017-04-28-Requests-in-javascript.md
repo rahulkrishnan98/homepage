@@ -15,7 +15,7 @@ As you probably know very well by now, the internet is made up of a bunch of int
 
 ### **Application Program Interface (API) **
 
-Now the Wikipedia definition of the API will tell you, an **Application Programming Interface** (**API**) is a set of subroutine definitions, protocols, and tools for building ![47.png](https://rahulkrishnanlive.files.wordpress.com/2017/04/47.png)application software. But in layman terms , in the context of the web, the API's generally allow you to send commands to programs running on the servers that you connect to from your browser or with the browser itself. This allows you to access resources only available on the server. A common usage is of the authorisation feature to login to websites. [youtube https://www.youtube.com/watch?v=6STSHbdXQWI&w=640&h=360]
+Now the Wikipedia definition of the API will tell you, an **Application Programming Interface** (**API**) is a set of subroutine definitions, protocols, and tools for building ![47.png](https://rahulkrishnanlive.files.wordpress.com/2017/04/47.png)application software. But in layman terms , in the context of the web, the API's generally allow you to send commands to programs running on the servers that you connect to from your browser or with the browser itself. This allows you to access resources only available on the server. A common usage is of the authorisation feature to login to websites. <br> [![API](https://img.youtube.com/vi/6STSHbdXQWI&w=640&h=360/0.jpg)](https://www.youtube.com/watch?v=6STSHbdXQWI&w=640&h=360)[youtube https://www.youtube.com/watch?v=6STSHbdXQWI&w=640&h=360]
 
 ### **XMLHttpRequest :**
 
