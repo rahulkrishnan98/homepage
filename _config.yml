@@ -10,7 +10,7 @@ url: https://rahulkrishnan98.github.io/homepage/  # url should be 'http://<githu
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author:   # change following line to your infomation.
+author: Rahul Krishnan   # change following line to your infomation.
   name: Rahul  # Be used at blog posts' author.
   first_name: Rahul # Be used at index page about me section.
   last_name: Krishnan  # Be used at index page about me section.
@@ -18,7 +18,7 @@ author:   # change following line to your infomation.
   github_username: rahulkrishnan98  # Leave blank if you don't have now
   linkedin_id: rahul-krishnan-18a28a137 # Leave blank if you don't have now
   facebook_username: Rahul24kde  # Leave blank if you don't have now
-  twitter_username: Rahul_rage2423  # Leave blank if you don't have now
+  twitter_username: I0_0IRahul  # Leave blank if you don't have now
   email: mrahul.krishnan@gmail.com  # Leave blank if you don't have now
   cv:   # A online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
