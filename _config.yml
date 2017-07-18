@@ -28,7 +28,7 @@ author:# change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Experienced Contributor with a demonstrated history of contributing to various projects in Computer Science. Skilled in Linux, Web-dev, Microsoft Word, C++, Public Speaking, Embedded Linux, and Management. Strong media and communication professional with a Bachelor of Technology focused in Computer Science from Amrita University, Amritapuri Campus.  # Describe yourself.
+  desc: Everything open and free | Warriors Basketball | Foodie # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
