@@ -10,7 +10,7 @@ url: https://rahulkrishnan98.github.io/homepage/  # url should be 'http://<githu
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author: Rahul Krishnan   # change following line to your infomation.
+author:# change following line to your infomation.
   name: Rahul  # Be used at blog posts' author.
   first_name: Rahul # Be used at index page about me section.
   last_name: Krishnan  # Be used at index page about me section.
